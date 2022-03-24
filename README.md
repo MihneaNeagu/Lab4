@@ -26,6 +26,6 @@ LIVE (2p)
 - Identificarea celei mai lungi secvente de entitati egale TEMA (implementare - 0.75p,
 testare – 0.75p)
 
-- Inchiderea aplciatiei – LIVE (1p) 
+- Inchiderea aplicatiei – LIVE (1p) 
 
 Eu am ales NumarComplex
